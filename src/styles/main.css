@@ -1,0 +1,72 @@
+/* [!] NO BORRAR */
+html, body {
+    overflow-x: hidden;
+    background-color: #1a1a1a;
+    font-family: sans-serif;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.main{
+    background-color: #2a2a2a;
+    color: #d2d2d2;
+}
+
+div{
+    margin: 1%;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.webgraphy{
+    background-color: #323232;
+}
+
+.webgraphy-gemni{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 2px;
+    padding: 0px;
+}
+
+.gemini-logo{
+    height: 20px;
+    width: 20px;
+    margin: 0px;
+}
+
+.capa-7{
+    background-color: #094233;
+    color: #E5E5E5;
+}
+
+.capa-6{
+    background-color: #00674B;
+    color: #E5E5E5;
+}
+
+.capa-5{
+    background-color: #32AF8E;
+    color: #E5E5E5;
+}
+
+.capa-4{
+    background-color: #5BD3B3;
+    color: #171717;
+}
+
+.capa-3{
+    background-color: #8EF8DB;
+    color: #171717;
+}
+
+.capa-2{
+    background-color: #B6FFEC;
+    color: #171717;
+}
+
+.capa-1{
+    background-color: #DBFFF5;
+    color: #171717;
+}
